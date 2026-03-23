@@ -1,0 +1,12 @@
+{
+  "name": "mywebsite-composeApp",
+  "version": "0.0.0-unspecified",
+  "main": "kotlin/mywebsite-composeApp.mjs",
+  "devDependencies": {},
+  "dependencies": {
+    "@js-joda/core": "3.2.0"
+  },
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}

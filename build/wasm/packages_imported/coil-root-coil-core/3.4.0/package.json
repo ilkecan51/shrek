@@ -1,0 +1,10 @@
+{
+  "name": "coil-root-coil-core",
+  "version": "3.4.0",
+  "main": "coil-root-coil-core.mjs",
+  "devDependencies": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}
